@@ -6,7 +6,7 @@
   "main": "",
   "devDependencies": {
     "@types/chai": "4.3.4",
-    "chai": "^4.3.7",
+    "chai": "^4.5.0",
     "graphql": "github:graphql/graphql-js",
     "patch-package": "^8.0.0",
     "postinstall-postinstall": "^2.1.0",
