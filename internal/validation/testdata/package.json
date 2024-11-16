@@ -5,7 +5,7 @@
   "description": "Extracts test data from github.com/graphql/graphql-js",
   "main": "",
   "devDependencies": {
-    "@types/chai": "4.3.4",
+    "@types/chai": "4.3.20",
     "chai": "^4.3.7",
     "graphql": "github:graphql/graphql-js",
     "patch-package": "^8.0.0",
