@@ -10,7 +10,7 @@
     "graphql": "github:graphql/graphql-js",
     "patch-package": "^8.0.0",
     "postinstall-postinstall": "^2.1.0",
-    "ts-node": "10.9.1",
+    "ts-node": "10.9.2",
     "typescript": "5.0.4"
   },
   "scripts": {
